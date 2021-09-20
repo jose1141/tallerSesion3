@@ -1,0 +1,44 @@
+pages/MainPage.java
+ pages.MainPage
+control/Button.java
+ control.Button
+factoryBrowser/FactoryBrowser.java
+ factoryBrowser.FactoryBrowser
+clientAPI/RequestGET.java
+ clientAPI.RequestGET
+clientAPI/RequestPOST.java
+ clientAPI.RequestPOST
+singletonSession/Session.java
+ singletonSession.Session
+clientAPI/Request.java
+ clientAPI.Request
+factoryBrowser/IBrowser.java
+ factoryBrowser.IBrowser
+testCases/LoginTodoLy.java
+ testCases.LoginTodoLy
+factoryBrowser/ChromeProxy.java
+ factoryBrowser.ChromeProxy
+control/TextBox.java
+ control.TextBox
+utils/ConfigOWASP.java
+ utils.ConfigOWASP
+factoryBrowser/Edge.java
+ factoryBrowser.Edge
+pages/LoginModal.java
+ pages.LoginModal
+clientAPI/RequestDELETE.java
+ clientAPI.RequestDELETE
+factoryBrowser/Chrome.java
+ factoryBrowser.Chrome
+factoryBrowser/Firefox.java
+ factoryBrowser.Firefox
+clientAPI/ResposeInfo.java
+ clientAPI.ResposeInfo
+clientAPI/FactoryRequest.java
+ clientAPI.FactoryRequest
+control/Label.java
+ control.Label
+control/ControlSelenium.java
+ control.ControlSelenium
+testCases/VulnerabilityTest.java
+ testCases.VulnerabilityTest
